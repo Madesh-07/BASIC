@@ -1,0 +1,36 @@
+body{
+    margin-top:1.2cm;
+    font-family: 'Poppins', sans-serif;
+    font-size:15px;
+}
+.first-card{
+    background-color: rgb(173, 214, 214);
+}
+.text{
+    margin-right:auto;
+}
+.card1{
+    border:8px solid blue;
+    border-left:10px;
+    border-right:10px;
+    border-bottom: 10px;
+}
+.card2{
+    border:8px solid red;
+    border-left:10px;
+    border-right:10px;
+    border-bottom: 10px;
+}
+.card3{
+    border:8px solid yellow;
+    border-left:10px;
+    border-right:10px;
+    border-bottom: 10px;
+}
+.card4{
+    border:8px solid yellow;
+    border-left:10px;
+    border-right:10px;
+    border-bottom: 10px;
+}
+
